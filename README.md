@@ -111,7 +111,7 @@ This configuration creates the following resources:
 7. An API Gateway method for the resource with the HTTP method POST
 8. An API Gateway integration that integrates the method with the Lambda function
 
-Find code in Terraform/main.tf 
+Find code in [Terraform/main.tf](https://github.com/Bogdan1707/Interviews/blob/main/DevOpsSRE/Terraform/main.tf) 
 
 ## Module 4: Bash
 ### Task 1
